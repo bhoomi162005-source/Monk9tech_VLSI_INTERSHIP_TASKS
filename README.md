@@ -250,5 +250,63 @@ GitHub is used to:
 
 ---
 
-📌 *This session focused on understanding GitHub at a conceptual level.  
-Practical commands and workflows will be covered in upcoming sessions.*
+# 📘 Day 3  Basics of Floor planning + Github and Linux & Labs
+
+---
+
+## 🟢 Part 1: Basics of Floor Planning (VLSI)
+
+### 🔹 What is Floor Planning?
+Floor planning is the **first physical design step** in the RTL to GDSII flow.  
+It defines **how different blocks are arranged inside the chip**.
+
+📌 It is similar to **city zoning before construction**.
+
+---
+
+### 🔹 Why Floor Planning is Important?
+- Controls chip **area and shape**
+- Reduces **routing congestion**
+- Improves **performance and timing**
+- Helps in efficient **power distribution**
+
+Poor floor planning can lead to:
+- Timing failures
+- Power issues
+- Routing congestion
+
+---
+
+### 🔹 What is Decided During Floor Planning?
+- Core size and shape
+- Placement of:
+  - Macros (CPU, SRAM, IPs)
+  - Standard cell area
+  - IO pads
+- Power and ground planning strategy
+
+---
+
+### 🔹 Key Floor Planning Terms
+
+#### 🧠 Die
+- Outer boundary of the chip
+
+#### 🧩 Core
+- Area where standard cells are placed
+
+#### 🧱 Macros
+- Large pre-designed blocks
+- Examples: SRAM, PLL, CPU
+
+#### 🔌 IO Pads
+- Interface between chip and external world
+
+---
+
+### 🔹 Goals of Good Floor Planning
+- Minimum wire length
+- Less congestion
+- Balanced power distribution
+- Better timing closure
+-
