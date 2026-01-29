@@ -309,4 +309,13 @@ Poor floor planning can lead to:
 - Less congestion
 - Balanced power distribution
 - Better timing closure
--
+
+## 🟢 Part 2: Basics of Linux Command
+## 🎯 Objective
+The objective of this task is to:
+- Practice basic Linux commands
+- Understand the purpose of each command
+- Document command usage with explanation
+- Demonstrate hands-on Linux experience
+
+---
