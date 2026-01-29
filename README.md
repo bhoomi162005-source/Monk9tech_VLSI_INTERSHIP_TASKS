@@ -319,3 +319,109 @@ The objective of this task is to:
 - Demonstrate hands-on Linux experience
 
 ---
+
+## 📸 Linux Commands Execution Screenshot
+
+Below is a single terminal session screenshot showing execution of multiple basic Linux commands:
+
+<img width="1309" height="927" alt="Screenshot from 2026-01-21 17-39-11" src="https://github.com/user-attachments/assets/7ddb7ec2-633b-4b72-9563-b368639d4011" />
+
+---
+
+## 🧾 Command-by-Command Explanation
+
+### 🔹 1. `pwd`
+**Present Working Directory**
+
+- Displays the current directory location
+- Helps users understand where they are in the file system
+
+📌 *Example Output:*  
+`/home/username`
+
+---
+
+### 🔹 2. `ls`
+**List Files and Directories**
+
+- Shows all files and folders in the current directory
+- Useful for checking directory contents
+
+---
+
+### 🔹 3. `ls -l`
+**Detailed List View**
+
+- Displays:
+  - File permissions
+  - Owner
+  - File size
+  - Date & time
+
+📌 Used to inspect file details
+
+---
+
+### 🔹 4. `mkdir linux_practice`
+**Make Directory**
+
+- Creates a new directory named `linux_practice`
+- Used to organize files properly
+
+---
+
+### 🔹 5. `cd linux_practice`
+**Change Directory**
+
+- Moves into the `linux_practice` folder
+- Helps navigate inside folders
+
+---
+
+### 🔹 6. `touch demo.txt`
+**Create File**
+
+- Creates an empty file named `demo.txt`
+- Commonly used to create text files
+
+---
+
+### 🔹 7. `nano demo.txt`
+**Edit File**
+
+- Opens `demo.txt` in nano editor
+- Used to write or modify text inside files
+- Simple and beginner-friendly editor
+
+---
+
+### 🔹 8. `cat demo.txt`
+**View File Content**
+
+- Displays the content of the file on terminal
+- Useful for quick verification
+
+---
+
+### 🔹 9. `cp demo.txt demo_copy.txt`
+**Copy File**
+
+- Creates a duplicate of `demo.txt`
+- Original file remains unchanged
+
+---
+
+### 🔹 10. `mv demo_copy.txt demo_renamed.txt`
+**Move / Rename File**
+
+- Renames the copied file
+- Can also be used to move files between directories
+
+---
+
+
+
+## Task 1 create github profile and readme flies
+
+## Task 2 GIthub  & Readme Labs
+execute linux command and screenshot
